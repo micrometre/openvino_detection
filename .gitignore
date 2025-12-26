@@ -1,6 +1,7 @@
 # model files
 model/
-
+images/*.jpg
+images/*.png
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
